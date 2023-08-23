@@ -16,9 +16,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
     
 3. Download the project files and navigate to the project directory.
    
-## USAGE
-
-
 
 
 
