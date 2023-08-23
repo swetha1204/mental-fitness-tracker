@@ -16,7 +16,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
     
 3. Download the project files and navigate to the project directory.
    
-
+## usage
+For code you can check Mental_fitness_tracker.ipynb file.
 
 
 ## output
